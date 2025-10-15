@@ -1,1 +1,1 @@
-https://crm-bji-pdm.m.frappe.cloud/app/frappe-crm
+https://crm-bji-pdm.m.frappe.cloud/app/customer-subscription
